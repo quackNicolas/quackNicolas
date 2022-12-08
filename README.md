@@ -4,8 +4,5 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=quackNicolas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
- <style>
-   img  {
-   justify-content: center;
-   }
-  </style>
+ ![Snake animation](https://github.com/quackNicolas/quackNicolas/blob/output/github-contribution-grid-snake.svg)
+
