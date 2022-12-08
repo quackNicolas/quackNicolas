@@ -7,5 +7,6 @@
  🗿🍷
  <hr>
  <br>
+ 
  ![Snake animation](https://github.com/quackNicolas/quackNicolas/blob/output/github-contribution-grid-snake.svg)
 
